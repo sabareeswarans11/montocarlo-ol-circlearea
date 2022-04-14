@@ -1,6 +1,6 @@
 # montocarlo-ol-circlearea
 
-A library for Area of overlapped region between 2 Circle will be calculated using MontoCarlo method (Random Points)
+A library for Area calculator of overlapped region between 2 Circle using MontoCarlo method (Random Points)
 
 ### Installation
 ```
