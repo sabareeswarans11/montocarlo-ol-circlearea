@@ -1,6 +1,6 @@
 # montocarlo-ol-circlearea
 
-A Python library for Area calculator of overlapped region between 2 Circle using MontoCarlo method (Random Points)
+A Python library for calculating Area of overlapped region between 2 Circle using MontoCarlo method (Random Points)
 
 ### Installation
 ```
